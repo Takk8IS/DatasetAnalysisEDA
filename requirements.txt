@@ -1,0 +1,48 @@
+# Data manipulation and analysis
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Utility
+unidecode
+
+# File handling - For Excel file support
+openpyxl
+
+# File handling - For older Excel file formats
+xlrd
+
+# Optional: for improved performance
+numb
+numexpr
+
+# Optional: for interactive development
+ipython
+jupyter
+
+# Testing
+pytest
+
+# Documentation
+sphinx
+
+# Type checking
+mypy
+
+# Code formatting
+black
+
+# Linting
+flake8
+
+# Dependencies management
+pip-tools
+
+# Virtual environment
+virtualenv
